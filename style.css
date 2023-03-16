@@ -84,8 +84,8 @@
     .card{
         flex-direction: colum-reverse;
         justify-content: space-between;
-        width: 98vw;
-        height: 98vh;
+        width: 90vw;
+        height: 90vh;
     }
     .card .desc{
         width: auto;
@@ -101,7 +101,7 @@
         margin-bottom: 2rem;
     }
     .card .card-img{
-        height: 30%;
+        height: 3%;
         width: 100%;
         border-radius: 7px 7px 0 0;
     }
